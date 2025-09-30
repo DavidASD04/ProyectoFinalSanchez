@@ -1,0 +1,15 @@
+.item-detail-container {
+    min-height: calc(100vh - 80px);
+    padding: 2rem 0;
+}
+
+.loading, .error {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #7f8c8d;
+    padding: 3rem;
+}
+
+.error {
+    color: #e74c3c;
+}
